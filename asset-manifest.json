@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Warhammer-App/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Warhammer-App/static/js/main.5614bdde.chunk.js",
+    "main.js.map": "/Warhammer-App/static/js/main.5614bdde.chunk.js.map",
+    "runtime-main.js": "/Warhammer-App/static/js/runtime-main.3301c654.js",
+    "runtime-main.js.map": "/Warhammer-App/static/js/runtime-main.3301c654.js.map",
+    "static/js/2.075a502a.chunk.js": "/Warhammer-App/static/js/2.075a502a.chunk.js",
+    "static/js/2.075a502a.chunk.js.map": "/Warhammer-App/static/js/2.075a502a.chunk.js.map",
+    "index.html": "/Warhammer-App/index.html",
+    "precache-manifest.182611f414f4b7fe0df01f97826fe628.js": "/Warhammer-App/precache-manifest.182611f414f4b7fe0df01f97826fe628.js",
+    "service-worker.js": "/Warhammer-App/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Warhammer-App/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.075a502a.chunk.js.LICENSE.txt": "/Warhammer-App/static/js/2.075a502a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3301c654.js",
+    "static/js/2.075a502a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5614bdde.chunk.js"
+  ]
+}
