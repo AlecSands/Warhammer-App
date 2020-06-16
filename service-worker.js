@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Warhammer-App/precache-manifest.182611f414f4b7fe0df01f97826fe628.js"
+  "/Warhammer-App/precache-manifest.cf15e3ba59e5b8dd343b7dd3dc997407.js"
 );
 
 self.addEventListener('message', (event) => {
