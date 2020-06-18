@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Warhammer Application</h1>
-      <Phase name="Phase 1 - Hero Phase"/>
+      <Phase name="Hero Phase" number="1"/>
       <Action name="Spell Casts" />
     </div>
   );
